@@ -58,7 +58,7 @@ document.querySelectorAll(".stat h3").forEach((el) => {
 
 /* TYPING EFFECT */
 const text = ["IT support systems",
-  "system troubleshooting",
+  "software systems",
   "automation tools"];
 let i = 0;
 
